@@ -63,19 +63,22 @@ body {
 }
 
 #menu-info {
-  font-family: 'Allura', cursive;
+  font-family: 'Ubuntu', sans-serif;
   width: 70%;
+  text-transform: uppercase;
   padding-right: 3rem;
+  font-weight: bold;
   max-width: 1000px;
   text-align: right;
-  font-size: 3.5rem;
+  font-size: 1.5rem;
   position: absolute;
-  top: 2.6rem;
+  top: 4.1rem;
   color: #494c4b;
 }
 
 #menu-info-name {
   text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 .wrapper {
@@ -875,6 +878,7 @@ a.button:hover {
 
 #landing-main {
   position: relative;
+  top: -20px;
   text-align: center;
 }
 
@@ -925,7 +929,7 @@ a.button:hover {
 
 #landing-footer {
   position: absolute;
-  bottom: 0;
+  bottom: -60;
 }
 
 #mintbot {
