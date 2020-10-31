@@ -186,8 +186,8 @@ module.exports = function(controller) {
             setTimeout(async() => {
               await bot.changeContext(message.reference);
               await bot.reply(message, {
-                link: "https://github.com/catherinekimyj",
-                username: "catherinekimyj",
+                link: "https://github.com/Emina288",
+                username: "Emina288",
                 quick_replies: [
                   {
                     title: "LinkedIn",
@@ -220,8 +220,8 @@ module.exports = function(controller) {
           setTimeout(async () => {
             await bot.changeContext(message.reference);
             await bot.reply(message, {
-              link: "https://www.linkedin.com/in/catherinekimyj/",
-              username: "catherinekimyj",
+              link: "https://www.linkedin.com/in/emina-ramovic-858835187/",
+              username: "Emina Ramovic",
               quick_replies: [
                 {
                   title: "GitHub",
@@ -254,8 +254,8 @@ module.exports = function(controller) {
           setTimeout(async () => {
             await bot.changeContext(message.reference);
             await bot.reply(message, {
-              link: "https://www.angel.co/u/catherinekimyj/",
-              username: "catherinekimyj",
+              link: "https://angel.co/u/emina-ramovic",
+              username: "Emina Ramovic",
               quick_replies: [
                 {
                   title: "LinkedIn",

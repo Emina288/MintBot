@@ -1,13 +1,12 @@
 {
     "basics": {
-        "name": "Catherine Kim",
-        "description": "Software Engineer | Web Development Javascript Ruby Rails React Redux Git Express.js Node.js PostgreSQL MongoDB AWS CSS/SCSS HTML",
-        "image": "",
-        "email": "catkimyj@gmail.com",
-        "phone": "(929)-399-6005",
+        "name": "Emina Ramovic",
+        "description": "Software and Electrical Engineer || Ruby on Rails, React/Redux, SQL, CSS, HTML, MongoDB, JavaScript, Express.js, Node.js, D3.js, MathLab, AutoCAD, Python ",
+        "email": "ramovicemina7@gmail.com",
+        "phone": "(917)-239-9535",
         "jobStatus": "open to work",
-        "url": "http://catherinekim.me/",
-        "summary": "I am a designer turned software engineer who believes that exquisite code not only outputs a product that is user-friendly, comprehensive, and functional, such values are held within the visual aspects of the lines of code, as well. I am adaptable, open-minded, and value all learning experiences. With prior managerial skills with past employers, I am always a team player and believe in rising up together rather than holding a win-lose mindset. ",
+        "url": "https://emina288.github.io/portfolio/",
+        "summary": "Forward-thinking Software Engineer with a background in Electrical Engineering. Fluent in JavaScript and Ruby programming languages using creativity and performance-oriented approach. A proud team player focused on achieving project objectives with speed and accuracy.",
         "location": {
             "address": "New York City",
             "postalCode": "",
@@ -17,77 +16,43 @@
         "profiles": [
             {
                 "network": "LinkedIn",
-                "username": "catherinekimyj",
-                "url": "https://www.linkedin.com/in/catherinekimyj/"
+                "username": "Emina Ramovic",
+                "url": "https://www.linkedin.com/in/emina-ramovic-858835187/"
             },
             {
                 "network": "AngelList",
-                "username": "catherinekimyj",
-                "url": "https://www.angel.co/u/catherinekimyj/"
+                "username": "Emina Ramovic",
+                "url": "https://angel.co/u/emina-ramovic"
             }
         ]
     },
     "work": [
         {
-            "name": "Forsythia Studio",
-            "endDate": "2019-12-31",
+            "name": "Watt.doo",
+            "endDate": "05/2019",
             "highlights": [],
-            "position": "Founder",
-            "startDate": "2017-08-31",
-            "summary": "Shifting the way we consume and contribute to fashion, Forsythia was built on the foundation of producing clothing through environmentally and socially conscious processes. As the founder and designer of the sustainable luxury brand, I worked closely with showrooms and PR agencies, and managed contractors and freelancers. I also managed and modified the code for the company website. Forsythia has been featured in: Vogue China, Latest magazine, Revs magazine, Shuba magazine, Schon magazine, ONE magazine, and numerous others.",
+            "position": "Electrical Engineer",
+            "startDate": "02/2019",
+            "summary": "Determined the most effective approaches to new projects by reading and analyzing blueprints, drawings, and sketches. Made decisions and worked on contracts in installing thousands of new electrical equipment, including outdoor lighting, guestrooms, and conference room electrical framework. Created and organized over millions of dollars worth of offers for illumination based on electrical installation projects in top hotels and industries in Europe. Collaborated with the main engineer to create lighting installation projects using AutoCad, 3D Max, Radiance.",
             "url": ""
         },
         {
-            "name": "Marchesa",
-            "endDate": "2019-11-30",
+            "name": "TVT Teuta",
+            "endDate": "06/2017",
             "highlights": [],
-            "position": "First Creative Patternmaker",
-            "startDate": "2018-11-30",
-            "summary": "I drafted patterns for 10+ garments per season for six collections per year, and supervised the process and execution. Technical fit and errors were analyzed and discussed each season. I shared the task in managing a team of 6+ sewers and interns, and mentored the junior pattern maker in coaching technical and non-technical skills in the atelier.",
-            "url": ""
-        },
-        {
-            "name": "Christian Siriano",
-            "endDate": "2017-03-31",
-            "highlights": [],
-            "position": "Assistant Designer",
-            "startDate": "2014-12-31",
-            "summary": "Working closely with founder Christian Siriano, I assisted in design execution and patterned garments for five collections per year, each collection consisting of an average of 50 looks. I drafted patterns of custom garments for private clients and celebrities, managed sewers and interns, and communicated with the production team for efficient garment production.",
-            "url": ""
-        },
-        {
-            "name": "Christian Siriano",
-            "endDate": "2014-06-30",
-            "highlights": [],
-            "position": "Freelance Designer",
-            "startDate": "2013-02-28",
-            "url": ""
-        },
-        {
-            "name": "Badgley Mischka",
-            "endDate": "2013-02-28",
-            "highlights": [],
-            "position": "Design Intern",
-            "startDate": "2012-09-30",
-            "url": ""
-        },
-        {
-            "name": "Anna Sui",
-            "endDate": "2010-12-31",
-            "highlights": [],
-            "position": "Design Intern",
-            "startDate": "2010-09-30",
+            "position": "Electrical Engineer Intern",
+            "startDate": "01/2015",
+            "summary": "Proposed electrical product and system modifications to improve quality and efficiency. Assist in system design to develop new technologies. Provide feedback to management concerning possible problems or areas of improvement ",
             "url": ""
         }
     ],
     "volunteer": [
         {
-            "organization": "A Million Masks",
-            "position": "Fundraising Volunteer",
-            "url": "https://www.linkedin.com/company/65282278",
-            "startDate": "2020-03-31",
-            "endDate": "2020-03-31",
-            "summary": "A Million Masks is a nonprofit organization whose mission is to secure emergency Personal Protective Equipment (PPE) for frontline hospital workers in New York City. My role as a volunteer was to reach out to high-profile individuals to explain the mission and goal of A Million Masks and to invite them to share our GoFundMe link on social media platforms and help spread the word. The highest number of exposure per individual was brought in by clothing designer Phillip Lim, who shared AMM's story on both his brand and personal social media platforms.",
+            "organization": "Organization for children with special needs",
+            "position": "Teacher Volunteer",
+            "startDate": "2013-01-31",
+            "endDate": "2013-08-31",
+            "summary": "Organization for children with special needs assists in education, recreation as well as organization donors nights to collect funds for necessary treatments for the children with special needs.",
             "highlights": []
         }
     ],
@@ -102,20 +67,20 @@
             "courses": []
         },
         {
-            "institution": "Fashion Institute of Technology",
-            "area": "Fashion/Apparel Design",
-            "studyType": "Bachelor of Fine Arts (BFA)",
-            "startDate": "2009-12-31",
-            "endDate": "2013-12-31",
+            "institution": "University of Montenegro",
+            "area": "Electrical Engineering",
+            "studyType": "Bachelors in Engineering",
+            "startDate": "2014-09-01",
+            "endDate": "2017-06-31",
             "gpa": "",
             "courses": []
         },
         {
-            "institution": "James Madison University",
-            "area": "Dietetics and Clinical Nutrition Services",
-            "studyType": "",
-            "startDate": "2007-12-31",
-            "endDate": "2009-12-31",
+            "institution": "University of Montenegro ",
+            "area": "Analysis of Electrical Grids",
+            "studyType": "Specialization",
+            "startDate": "2017-10-01",
+            "endDate": "2019-01-16",
             "gpa": "",
             "courses": []
         }
@@ -138,22 +103,20 @@
                 "React", "Redux", "MongoDB", "Express.js", "Node.js", "SQL", "jQuery", "AJAX", "Google Maps API",    
                 "Application Programming Interfaces", "Test Driven Development", "PostgreSQL", "Web Development", "Front-end Development",
                 "Back-end Development",
-                "Microsoft Word", "Microsoft Office", "PowerPoint", "Illustrator", "Lightroom",
-                "Photoshop", "InDesign"
+                "Microsoft Word", "Microsoft Office", "PowerPoint"
             ]
         },
         {
             "techSkills": [
                 "JavaScript", "Ruby", "HTML5",  "Cascading Style Sheets (CSS)", "Git", "Amazon Web Services (AWS)", "Rails",
-                "React", "Redux", "MongoDB", "Express.js", "Node.js", "SQL", "jQuery", "AJAX", "Google Maps API",    
+                "React", "Redux", "MongoDB", "Express.js", "Node.js", "SQL", "jQuery", "AJAX", "Google Maps API, D3.js, ",    
                 "Application Programming Interfaces", "Test Driven Development", "PostgreSQL", "Web Development", "Front-end Development",
                 "Back-end Development"
             ]
         },
         {
             "miscSkills": [
-                "Microsoft Word", "Microsoft Office", "PowerPoint", "Illustrator", "Lightroom",
-                "Photoshop", "InDesign"
+                "Microsoft Word", "Microsoft Office", "PowerPoint"
             ]
         }
     ],   
@@ -163,7 +126,7 @@
             "fluency": "Fluent"
         },
         {
-            "language": "Korean",
+            "language": "Montenegrian",
             "fluency": "Native Speaker"
         }
     ],
@@ -171,15 +134,19 @@
     "references": [
         {
             "name": "Gloria Kang",
-            "reference": "Catherine is determined and tenacious. Every project that we worked on was a project that was produced thoughtfully and thoroughly.\n\nCatherine served as the frontend lead for a MERN stack application that was built by a team of four engineers. Her deep and extensive knowledge of React and her ability to implement striking visual elements is what really helped to distinguish our app. Not only does she excel technically, but she is also a great communicator. She worked seamlessly with our backend lead and not only were our deadlines met, but everything was completed to the t.\n\nI have been inspired by Catherine multiple times to never give up. I've watched her work through tough bugs with such drive and witnessed her creative process from ideation to reality. I can confidently recommend Catherine as I know she will be asset to any organization."
+            "reference": "Emina is a great team player and she excels technically. I’ve enjoyed worked with her on several projects and have always felt confident in what we produced together. Her insight and ability to problem solve has impressed me on several occasions and I know that working with her means experiencing true engineering innovation. I can attest that Emina is a quick learner, as she has come through on a MERN stack application that we worked on together several times, learning new technologies in a matter of days and implementing them so that we could meet our deadlines. I know that with Emina on my team, that we are geared for success. It is my absolute pleasure to recommend Emina."
         },
         {
             "name": "Mari Kasanuki",
-            "reference": "Catherine's sense for eye-catching design and ability to weave that into code is truly exceptional.\n\nShe and I worked on several projects together during App Academy's intense curriculum, and I often witnessed her build impressive user interface and UX features that elevated the application. I always looked forward to her demos and was consistently thrilled by what she produced. When faced with frustrating bugs, Catherine wouldn't give up and showcased an ability to inspire us to keep going to find a resolution.\n\nShe is a talented and creative individual, who would absolutely be an asset to any team."
+            "reference": "I had the pleasure of working with Emina on a couple different projects at App Academy and I was consistently impressed. When faced with tough-to-solve bugs, she would always find innovative ways to test and rethink the issues at hand. Emina’s willingness to take on new technologies will inspire you to challenge yourself to explore uncharted areas. I always looked forward to the creative solutions she developed to implement features. I know she’d be an asset at any organization."
         },
         {
-            "name": "Emina Ramovic",
-            "reference": "Catherine was one of the students I absolutely enjoyed working with and stayed in touch after graduating. Collaborating with her on a project I kept getting more and more impressed with Catherine's eye for design until we worked on the back-end together. That is when I realized how diverse and technically skilled engineer Catherine is.\n\nI am absolutely confident that Catherine's skills and team spirit will make a big difference in any company. Not only will she bring the kind of knowledge and experiences you're looking for in an applicant, but she will also quickly become an asset and help your company grow in any way she can."
+            "name": "Catherine Kim",
+            "reference": "Working with Emina was an absolute pleasure. Emina always showed enthusiasm in creating and building projects, and debugging through issues that emerged. She is skilled not only in the technical attributes but the non-technical, as well. Emina is a great communicator and was an inspiration to others throughout the course. As we worked together, it became very clear that Emina’s ability to visualize connections, from front-end to back-end, is extremely strong. She has a clear vision and direction in which she wants to take, and is determined to complete the given task and beyond. She often thinks about the humanistic values that can be incorporated with technology and was the motivator behind Profferly - an application built to support communities and volunteers. There is no doubt that with the level of drive and innovation that Emina possesses, she will be a superior asset to any team."
+        },
+        {
+            "name": "Clifford Yan",
+            "reference": "Emina definitely stood out from the rest when I first worked on a project with her. Her exceptional work flow, work ethic, and communication skills made working on our project a pristine experience. Readily prepared every day, made sure she understood what was asked of her for the project and completed that project to the best of her ability. Always extremely welcoming that made the work environment very enjoyable. No matter how tense a project, always felt uplifted and jovial when paired with her. As a team member or leader, Emina earns my highest recommendation."
         }
     ],
     "projects": [
@@ -188,12 +155,12 @@
             "url": "http://profferly.herokuapp.com/"
         },
         {
-            "name": "Wordplay",
-            "url": "https://aa-wordplay.herokuapp.com/"
+            "name": "GoodReadsFullStack",
+            "url": "https://good-reads-full-stack.herokuapp.com/#/"
         },
         {
-            "name": "Depth Perception",
-            "url": "http://catherinekim.me/depth-perception/"
+            "name": "Power Up",
+            "url": "https://emina288.github.io/power_up/"
         }
     ]
 }

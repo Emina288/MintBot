@@ -181,8 +181,8 @@ module.exports = function (controller) {
     async (bot, message) => {
         await bot.changeContext(message.reference);
         await bot.reply(message, {
-          link: "http://catherinekim.me/",
-          username: "Catherine Kim",
+          link: "https://emina288.github.io/portfolio/",
+          username: "Emina Ramovic",
           quick_replies: [
             {
               title: "",

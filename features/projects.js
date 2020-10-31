@@ -66,8 +66,8 @@ module.exports = function (controller) {
       "message",
       async (bot, message) => {
         await bot.reply(message, {
-            link: "http://catherinekim.me/depth-perception/",
-            username: "JavaScript",
+          link: "https://emina288.github.io/power_up/",
+          username: "JavaScript",
           quick_replies: [
             {
               title: "",
@@ -80,7 +80,7 @@ module.exports = function (controller) {
           await bot.changeContext(message.reference);
           await bot.reply(message, {
             text:
-              "Depth Perception is a meditation visualization app where the user input dissipates to a timed animation. The duration of the animation will depend on the length of the chosen meditation sound. It is the idea of letting go of your thoughts to reach deeper meditation.",
+              "Power-up is a single-page JavaScript application. The main feature of the app is a data visualization that is being represented by using D3.js. It contains data on four different types of electrical power plants. Clients can choose between hydro, thermal, solar, and wind power plant and get information about electricity generation in a few different countries using the selected power plant. Clients can also see electricity generation over the years in each country and read more about the chosen power plant.",
             image: "javas.png",
             quick_replies: [
               {
@@ -102,7 +102,7 @@ module.exports = function (controller) {
       "message",
       async (bot, message) => {
           await bot.reply(message, {
-            link: "https://aa-wordplay.herokuapp.com/#/",
+            link: "https://good-reads-full-stack.herokuapp.com/#/",
             username: "Full-Stack",
             quick_replies: [
               {
@@ -115,9 +115,9 @@ module.exports = function (controller) {
         setTimeout(async () => {
           await bot.changeContext(message.reference);
           await bot.reply(message, {
-          text:
-            "Wordplay is a single-page web application, built on React-Redux and RESTful JSON Rails API. It features an ability for users to highlight lines of spoken word and poetry, and save annotations to the selection. It is a clone of the Genius app.",
-          image: "full.png",
+            text:
+              "Goodreadsfullstack is a full-stack, single-page-application clone of Goodreads. Users can view a list of books from our data base, search up books, create bookshelves and add books to them. Each book can be rated and reviewed.",
+            image: "full.png",
             quick_replies: [
               {
                 title: "JavaScript",
